@@ -1,3 +1,5 @@
-Hola mi nombre es pedro y tengo 20 años.
+Hola mi nombre es pedro y tengo 21 años.
 
 Me gustan mucho los gatos.
+
+Tambien estudio ingenieria de sistemas.
