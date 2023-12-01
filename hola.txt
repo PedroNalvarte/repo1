@@ -4,4 +4,6 @@ Me gustan mucho los gatos.
 
 Tambien estudio ingenieria de sistemas.
 
-aqui haremos un commit sin comentario
+aqui haremos un commit sin comentario.
+
+oa este es un archivo que quitare de staged.
