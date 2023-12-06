@@ -9,3 +9,6 @@ aqui haremos un commit sin comentario.
 cambio en prueb
 
 oa este es un archivo que quitare de staged.
+
+
+cambio que estara en stash
