@@ -11,3 +11,5 @@ cambio en prueb
 oa este es un archivo que quitare de staged.
 
 cambio agregado en master
+
+cambio que estara en stash
